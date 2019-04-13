@@ -2,4 +2,4 @@
 `routing`
 `redux`
 
-[Click here](https://maia313.github.io/contact-manager)
+[See the app here](https://maia313.github.io/contact-manager)
