@@ -2,4 +2,4 @@
 `routing`
 `redux`
 
-https://maia313.github.io/contact-manager
+[Click here](https://maia313.github.io/contact-manager, 'See live page')
